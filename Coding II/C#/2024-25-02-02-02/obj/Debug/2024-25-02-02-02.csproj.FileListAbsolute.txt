@@ -1,0 +1,13 @@
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\2024-25-02-02-02.csproj.AssemblyReference.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\_2024_25_02_02_02.EvenOddForm.resources
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\_2024_25_02_02_02.FizzBuzzForm.resources
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\_2024_25_02_02_02.MainForm.resources
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\_2024_25_02_02_02.Properties.Resources.resources
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\2024-25-02-02-02.csproj.GenerateResource.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\2024-25-02-02-02.csproj.CoreCompileInputs.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\bin\Debug\2024-25-02-02-02.exe.config
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\bin\Debug\2024-25-02-02-02.exe
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\bin\Debug\2024-25-02-02-02.pdb
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\2024-25-02-02-02.exe
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\2024-25-02-02-02.pdb
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-02\obj\Debug\_2024_25_02_02_02.DigitCounterForm.resources

@@ -1,0 +1,14 @@
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Landon Beria\Desktop\Computer Programming and Design\Coding II\C#\2024-25-02-02-01\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
